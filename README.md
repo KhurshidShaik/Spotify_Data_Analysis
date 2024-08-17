@@ -47,7 +47,7 @@ pip install -r requirements.txt
 - Modify the src/ scripts to experiment with different features or models.
 
 ## Results
-- Predictive Insights: The analysis identifies key factors like artist prominence and release timing that significantly impact album popularity. The model's R-squared score of 0.641 indicates good predictive capability.
+- Predictive Insights: The analysis identifies key factors like artist prominence and release timing that significantly impact album popularity.
 
 ## Additional Resources
 - [Spotipy API Documentation](https://spotipy.readthedocs.io/)
